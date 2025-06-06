@@ -29,14 +29,7 @@ An intelligent Raspberry Pi + Arduino-based system for smart object detection us
 
 🎥 Watch the system in action:
 
-> [![Watch Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
-
-> Replace `VIDEO_ID_HERE` with your YouTube video ID.
-
-Or embed locally:
-```html
-<video src="servo-sentry-demo.mp4" controls width="600"></video>
-````
+<video src="iot_p_vd.mp4" controls width="600"></video>
 
 ---
 
