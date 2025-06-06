@@ -1,22 +1,5 @@
-Absolutely, here's a complete **README.md** file for your project, including:
-
-* Clear project name and description
-* Features and hardware list
-* Setup instructions
-* How to run
-* Video demo section (for YouTube or local video)
-* License (MIT by default, you can change)
-
----
-
-### ✅ **Suggested Project Name: `ServoSentry: Smart Object Detection with Alert & Camera`**
-
----
-
-### 📄 `README.md` (You can copy this to GitHub or personal site)
-
 ````markdown
-# ServoSentry 🚨🎥
+# ScanAlert-Pi 🚨🎥
 **An intelligent Raspberry Pi + Arduino-based system for smart object detection using a servo-mounted ultrasonic sensor. It captures images, sends email alerts, and activates LED + buzzer when an object is detected.**
 
 ---
@@ -34,18 +17,17 @@ Absolutely, here's a complete **README.md** file for your project, including:
 
 ## 🛠️ Hardware Components
 
-| Component        | Quantity |
-|------------------|----------|
-| Raspberry Pi (any model with GPIO + Camera) | 1 |
-| Arduino UNO      | 1        |
-| SG90 Micro Servo Motor | 1 |
-| HC-SR04 Ultrasonic Sensor | 1 |
-| Raspberry Pi Camera Module | 1 |
-| LED + 100Ω Resistor | 1 |
-| Buzzer           | 1        |
-| Breadboard + Jumper Wires | As required |
-| USB Cable (Arduino to Pi) | 1 |
-
+| **Component**              | **Description / Notes**              | **Quantity** |
+| -------------------------- | ------------------------------------ | ------------ |
+| Raspberry Pi               | Any model with GPIO & Camera support | 1            |
+| Arduino UNO                | For controlling servo motor          | 1            |
+| SG90 Micro Servo Motor     | Mounted with HC-SR04 for sweeping    | 1            |
+| HC-SR04 Ultrasonic Sensor  | For distance measurement             | 1            |
+| Raspberry Pi Camera Module | Used to capture image                | 1            |
+| LED + Resistor (100Ω)      | Visual alert when object detected    | 1            |
+| Buzzer                     | Audio alert                          | 1            |
+| Breadboard + Jumper Wires  | For circuit connections              | As required  |
+| USB Cable (Arduino to Pi)  | Serial communication                 | 1            |
 ---
 
 ## 📷 Demo Video
@@ -129,5 +111,3 @@ Connect: [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)
 GitHub: [github.com/YOUR\_USERNAME](https://github.com/YOUR_USERNAME)
 
 ```
-
----
