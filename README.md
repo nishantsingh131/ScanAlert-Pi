@@ -27,9 +27,11 @@ An intelligent Raspberry Pi + Arduino-based system for smart object detection us
 
 ## 📷 Demo Video
 
-🎥 Watch the system in action:
+## 🎥 Watch the system in action
 
-<video src="iot_p_vd.mp4" controls width="600"></video>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/shorts/pLq_paAQXFs))
+
+Click the image above to watch the project demo on YouTube.
 
 ---
 
